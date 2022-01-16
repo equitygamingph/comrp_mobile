@@ -1,5 +1,6 @@
 
 ![comrp](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/comrp.png)
+![comrp](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/egrp.png)
 
 
 # (OFFICIAL) GTA SA CoM:RP Mobile Launcher
