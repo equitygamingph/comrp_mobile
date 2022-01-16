@@ -1,11 +1,9 @@
 
 ![comrp](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/comrp.png)
-![comrp](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/egrp.png)
-
 
 # (OFFICIAL) GTA SA CoM:RP Mobile Launcher
 
-### **City of Manila Roleplay**
+### **City of Manila Roleplay by Equity Gaming**
 > is a GTA SAMP Server owned by Equity Gaming which provides its players an extraordinary gaming experience that transforms their dream into reality.
 
 ---
@@ -15,10 +13,10 @@
 **Discord:** https://discord.io/equitygaming <br />
 **Facebook** Page: https://facebook.com/EquityGaming2016 <br />
 **Facebook Group:** https://www.facebook.com/groups/comrpbyequitygaming <br /><br /><br />
-**SERVER IP:** `samp.equitygaming.net:7777` <br /><br />
-
-![comrp_server](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/server_stats.png)
-
+----
+**SERVER IP:** `samp.equitygaming.net:7777` <br />
+<img src="http://www.game-state.com/51.79.230.96:7777/430x73_FFFFFF_FF9900_000000_000000.png" alt="www.Game-State.com" style="border-style: none;" />
+----
 **SA-MP Mobile Launcher Features:** 
 
 > - [x] - Support 90 FPS
