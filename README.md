@@ -1,40 +1,42 @@
+<p align="center">Welcome to the best GTA:SA Multiplayer server in the Philippines!</p>
 
-![comrp](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/comrp.png)
+## <p align="center">[OFFICIAL] GTA:SA COM:RP Mobile Launcher</p>
+<p align="center">
+  <img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/comrp.png" height="auto" width="300px">
+</p>
 
-# (OFFICIAL) GTA SA CoM:RP Mobile Launcher
+## **City of Manila Roleplay by Equity Gaming (CROSS-PLATFORM) [PC/Mobile]**
+ City of Manila Roleplay is a GTA:SAMP Server run by Equity Gaming that provides an extraordinary experience that transforms their dream into an immersive virtual reality.
 
-### **City of Manila Roleplay by Equity Gaming (CROSS-PLATFORM [PC/Mobile]**
-> is a GTA SAMP Server owned by Equity Gaming which provides its players an extraordinary gaming experience that transforms their dream into reality.
+- ✅ GTA:SA Multiplayer
+- ✅ Realtime voice/text chatting
+- ✅ Best GTA SA-MP server in the Philippines
 
-- [x] Multi-player
-- [x] Real Time Voice/Text Chat
-- [x] Active Managements
-- [x] Best in SA-MP Filipino Server in the Philippines
+<br />
 
----
-## **Links:** <br />
+## **Links:**
+**Website:** https://equitygaming.net <br/>
+**Discord:** https://dsc.gg/equitygaming <br/>
+**Facebook** Page: https://facebook.com/EquityGaming2016 <br/>
+**Facebook Group:** https://www.facebook.com/groups/comrpbyequitygaming <br/>
+**SERVER IP:** `samp.equitygaming.net:7777` <br/>
+<img src="http://www.game-state.com/51.79.230.96:7777/430x73_FFFFFF_FF9900_000000_000000.png" alt="www.Game-State.com" style="border-style: none; height: auto; width: 500px;">
 
-**Website:** https://equitygaming.net <br />
-**Discord:** https://discord.io/equitygaming <br />
-**Facebook** Page: https://facebook.com/EquityGaming2016 <br />
-**Facebook Group:** https://www.facebook.com/groups/comrpbyequitygaming <br /><br /><br />
-----
-**SERVER IP:** `samp.equitygaming.net:7777` <br />
-<img src="http://www.game-state.com/51.79.230.96:7777/430x73_FFFFFF_FF9900_000000_000000.png" alt="www.Game-State.com" style="border-style: none;" />
-----
-**SA-MP Mobile Launcher Features:** 
+<br />
 
-> - [x] - Support 90 FPS
-> - [x] - Optimize FPS
-> - [x] - Lock Aiming
-> - [x] - Voice Chat
-> - [x] - Support Timestamp
-> - [x] - Support GTA Modification
-> - [x] - Less Crash 
+## **SA-MP Mobile Launcher Features:** 
+- ✅ PC and Mobile crossplay
+- ✅ 90 FPS support
+- ✅ Optimized and stable FPS
+- ✅ Easy aim locking
+- ✅ Voice Chat support
+- ✅ Chat timestamp support
+- ✅ Custom Modding support
+- ✅ Less crashes!
 
-<br /><br />
-----
-# Screenshots
+<br />
+
+# <p align="center">Screenshots</p>
 
 ## Home Screen
 ![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/home%20screen.jpg)
