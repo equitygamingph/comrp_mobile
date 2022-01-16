@@ -5,7 +5,6 @@
 
 
 ### **Links:**
-
 **Website:** https://equitygaming.net
 **Discord:** https://discord.io/equitygaming
 **Facebook** Page: https://facebook.com/EquityGaming2016
