@@ -1,6 +1,6 @@
 <p align="center">Welcome to the best GTA:SA Multiplayer server in the Philippines!</p>
 
-## <p align="center">[OFFICIAL] GTA:SA COM:RP Mobile Launcher</p>
+## <p align="center">[OFFICIAL] GTA:SA COM:RP Android Mobile Launcher</p>
 <p align="center">
   <img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/comrp.png" height="auto" width="300px">
 </p>
@@ -23,7 +23,7 @@
 <img src="http://www.game-state.com/51.79.230.96:7777/430x73_FFFFFF_FF9900_000000_000000.png" alt="www.Game-State.com" style="border-style: none; height: auto; width: 500px;">
 
 <br />
-
+---
 ## **SA-MP Mobile Launcher Features:** 
 - ✅ PC and Mobile crossplay
 - ✅ 90 FPS support
@@ -34,8 +34,23 @@
 - ✅ Custom Modding support
 - ✅ Less crashes!
 
+---
+
+## **Required Specifications (Android):** 
+### Minimum
+  - OS: Android Version 7.0+
+  - RAM: 2 GB Ram
+  - Free Storage: 3 GB
+  - CPU: Snapdragon Quad Core
+
+### Recommended
+  - OS: Android Version 7.0+
+  - RAM: 4 GB Ram (6-8GB the better)
+  - Free Storage: 4 GB
+  - CPU: Snapdragon 632 1.8 GHz Octa-core
 <br />
 
+---
 # <p align="center">Screenshots</p>
 
 ## Home Screen
