@@ -3,8 +3,13 @@
 
 # (OFFICIAL) GTA SA CoM:RP Mobile Launcher
 
-### **City of Manila Roleplay by Equity Gaming**
+### **City of Manila Roleplay by Equity Gaming (CROSS-PLATFORM [PC/Mobile]**
 > is a GTA SAMP Server owned by Equity Gaming which provides its players an extraordinary gaming experience that transforms their dream into reality.
+
+- [x] Multi-player
+- [x] Real Time Voice/Text Chat
+- [x] Active Managements
+- [x] Best in SA-MP Filipino Server in the Philippines
 
 ---
 ## **Links:** <br />
