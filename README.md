@@ -25,6 +25,7 @@
 **SA-MP Mobile Launcher Features:** 
 
 > - [x] - Support 90 FPS
+> - [x] - Optimize FPS
 > - [x] - Lock Aiming
 > - [x] - Voice Chat
 > - [x] - Support Timestamp
