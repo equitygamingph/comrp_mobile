@@ -23,16 +23,18 @@
 <img src="http://www.game-state.com/51.79.230.96:7777/430x73_FFFFFF_FF9900_000000_000000.png" alt="www.Game-State.com" style="border-style: none; height: auto; width: 500px;">
 
 <br />
----
-## **SA-MP Mobile Launcher Features:** 
-- ✅ PC and Mobile crossplay
-- ✅ 90 FPS support
-- ✅ Optimized and stable FPS
-- ✅ Easy aim locking
-- ✅ Voice Chat support
-- ✅ Chat timestamp support
-- ✅ Custom Modding support
-- ✅ Less crashes!
+
+----
+
+## **SA-MP Mobile Launcher Features:** <br />
+- ✅ PC and Mobile crossplay <br />
+- ✅ 90 FPS support <br />
+- ✅ Optimized and stable FPS <br />
+- ✅ Easy aim locking <br />
+- ✅ Voice Chat support <br />
+- ✅ Chat timestamp support <br />
+- ✅ Custom Modding support <br />
+- ✅ Less crashes! <br />
 
 ---
 
