@@ -1,7 +1,6 @@
 <p align="center">Welcome to the best GTA:SA Multiplayer server in the Philippines!</p>
 
 ## <p align="center">[OFFICIAL] GTA:SA COM:RP Android Mobile Launcher</p>
-![image](Images/comrp.png)
 <p align="center">
   <img src="https://github.com/equitygamingph/comrp_mobile/blob/gh-pages/Images/comrp.png" height="auto" width="300px">
 </p>
