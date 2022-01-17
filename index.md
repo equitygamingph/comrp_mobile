@@ -56,24 +56,24 @@
 # <p align="center">Screenshots</p>
 
 ## Home Screen
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/home%20screen.jpg)
+
+<img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/home%20screen.jpg" height="auto" width="auto">
 
 ## Information
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/information.jpg)
+<img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/information.jpg" height="auto" width="auto">
 
 ## Servers
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/servers.jpg)
+<img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/servers.jpg" height="auto" width="auto">
 
 ## Settings
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/settings.jpg)
+<img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/settings.jpg" height="auto" width="auto">
 
 ## Joining
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/joining.jpg)
+<img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/joining.jpg" height="auto" width="auto">
 
 ---
 
 ## In-Game
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/billiard_1.jpg)
-
-![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/billiard_2.jpg)
+<img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/billiard_1.jpg" height="auto" width="auto">
+<img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/billiard_2.jpg" height="auto" width="auto">
 
