@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+<p align="center">Welcome to the best GTA:SA Multiplayer server in the Philippines!</p>
 
-You can use the [editor on GitHub](https://github.com/equitygamingph/comrp_mobile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## <p align="center">[OFFICIAL] GTA:SA COM:RP Android Mobile Launcher</p>
+<p align="center">
+  <img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/comrp.png" height="auto" width="300px">
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **City of Manila Roleplay by Equity Gaming (CROSS-PLATFORM) [PC/Mobile]**
+ City of Manila Roleplay is a GTA:SAMP Server run by Equity Gaming that provides an extraordinary experience that transforms their dream into an immersive virtual reality.
 
-### Markdown
+- ✅ GTA:SA Multiplayer
+- ✅ Realtime voice/text chatting
+- ✅ Best GTA SA-MP server in the Philippines
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br />
 
-```markdown
-Syntax highlighted code block
+## **Links:**
+**Website:** https://equitygaming.net <br/>
+**Discord:** https://dsc.gg/equitygaming <br/>
+**Facebook** Page: https://facebook.com/EquityGaming2016 <br/>
+**Facebook Group:** https://www.facebook.com/groups/comrpbyequitygaming <br/>
+**SERVER IP:** `samp.equitygaming.net:7777` <br/>
+<img src="http://www.game-state.com/51.79.230.96:7777/430x73_FFFFFF_FF9900_000000_000000.png" alt="www.Game-State.com" style="border-style: none; height: auto; width: 500px;">
 
-# Header 1
-## Header 2
-### Header 3
+<br />
 
-- Bulleted
-- List
+----
 
-1. Numbered
-2. List
+## **SA-MP Mobile Launcher Features:** <br />
+- ✅ PC and Mobile crossplay <br />
+- ✅ 90 FPS support <br />
+- ✅ Optimized and stable FPS <br />
+- ✅ Easy aim locking <br />
+- ✅ Voice Chat support <br />
+- ✅ Chat timestamp support <br />
+- ✅ Custom Modding support <br />
+- ✅ Less crashes! <br />
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## **Required Specifications (Android):** 
+### Minimum
+  - OS: Android Version 7.0+
+  - RAM: 2 GB Ram
+  - Free Storage: 3 GB
+  - CPU: Snapdragon Quad Core
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Recommended
+  - OS: Android Version 7.0+
+  - RAM: 4 GB Ram (6-8GB the better)
+  - Free Storage: 4 GB
+  - CPU: Snapdragon 632 1.8 GHz Octa-core
+<br />
 
-### Jekyll Themes
+---
+# <p align="center">Screenshots</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/equitygamingph/comrp_mobile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Home Screen
+![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/home%20screen.jpg)
 
-### Support or Contact
+## Information
+![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/information.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Servers
+![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/servers.jpg)
+
+## Settings
+![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/settings.jpg)
+
+## Joining
+![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/joining.jpg)
+
+---
+
+## In-Game
+![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/billiard_1.jpg)
+
+![information](https://github.com/equitygamingph/comrp_mobile/blob/main/Images/billiard_2.jpg)
+
