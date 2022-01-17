@@ -2,7 +2,7 @@
 
 ## <p align="center">[OFFICIAL] GTA:SA COM:RP Android Mobile Launcher</p>
 <p align="center">
-  <img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/comrp.png" height="auto" width="300px">
+  <img src="https://github.com/equitygamingph/comrp_mobile/blob/gh-pages/Images/comrp.png" height="auto" width="300px">
 </p>
 
 ## **City of Manila Roleplay by Equity Gaming (CROSS-PLATFORM) [PC/Mobile]**
