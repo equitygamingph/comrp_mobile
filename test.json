@@ -1,0 +1,57 @@
+[
+  {
+    "query": [
+      {
+        "number": 1,
+        "name": "City of Manila Roleplay",
+        "ip": "15.235.160.99",
+        "port": 7777,
+        "password": false
+      }
+    ]
+  },
+  {
+    "query": [
+      {
+        "number": 2,
+        "name": "City of Manila Roleplay Test Server",
+        "ip": "15.235.160.99",
+        "port": 7779,
+        "password": true
+      }
+    ]
+  },
+  {
+    "query": [
+      {
+        "number": 3,
+        "name": "City of Manila Roleplay Mapping Server",
+        "ip": "15.235.160.99",
+        "port": 7778,
+        "password": true
+      }
+    ]
+  },
+  {
+    "query": [
+      {
+        "number": 4,
+        "name": "City of Manila Roleplay Mapping Server 2",
+        "ip": "15.235.160.99",
+        "port": 7776,
+        "password": true
+      }
+    ]
+  },
+  {
+    "query": [
+      {
+        "number": 5,
+        "name": "City of Manila Roleplay Textdraw Server",
+        "ip": "15.235.160.99",
+        "port": 7775,
+        "password": true
+      }
+    ]
+  }
+]
