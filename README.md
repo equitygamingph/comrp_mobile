@@ -23,7 +23,7 @@
 **Facebook** Page: https://facebook.com/EquityGaming2016 <br/>
 **Facebook Group:** https://www.facebook.com/groups/comrpbyequitygaming <br/>
 **SERVER IP:** `samp.equitygaming.net:7777` <br/>
-<img src="http://www.game-state.com/51.79.230.96:7777/430x73_FFFFFF_FF9900_000000_000000.png" alt="www.Game-State.com" style="border-style: none; height: auto; width: 500px;">
+<img src="http://www.game-state.com/15.235.160.99:7777/430x73_FFFFFF_FF9900_000000_000000.png" alt="www.Game-State.com" style="border-style: none; height: auto; width: 500px;">
 
 <br />
 
