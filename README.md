@@ -5,7 +5,7 @@
   <img src="https://github.com/equitygamingph/comrp_mobile/blob/main/Images/comrp.png" height="auto" width="300px">
 </p>
 <p align="center">
-<a href="https://github.com/equitygamingph/comrp_mobile/releases/tag/v1.0.01">[CLICK HERE TO DOWNLOAD]</a>
+<a href="https://github.com/equitygamingph/comrp_mobile/releases/tag/v1.0.2">[CLICK HERE TO DOWNLOAD]</a>
 </p>
 
 ## **City of Manila Roleplay by Equity Gaming (CROSS-PLATFORM) [PC/Mobile]**
