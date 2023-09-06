@@ -3,7 +3,7 @@
     {
       "number": 1,
       "name": "City of Manila Roleplay",
-      "ip": "15.235.160.99",
+      "ip": "139.99.26.47",
       "port": 7777,
       "online": 500,
       "maxplayers": 500,
@@ -12,7 +12,7 @@
     {
       "number": 2,
       "name": "City of Manila Roleplay Test Server",
-      "ip": "15.235.160.99",
+      "ip": "139.99.26.47",
       "port": 7779,
       "online": 500,
       "maxplayers": 500,
@@ -21,7 +21,7 @@
     {
       "number": 3,
       "name": "City of Manila Roleplay Mapping Server",
-      "ip": "15.235.160.99",
+      "ip": "139.99.26.47",
       "port": 7778,
       "online": 500,
       "maxplayers": 500,
@@ -30,7 +30,7 @@
     {
       "number": 4,
       "name": "City of Manila Roleplay Mapping Server 2",
-      "ip": "15.235.160.99",
+      "ip": "139.99.26.47",
       "port": 7776,
       "online": 500,
       "maxplayers": 500,
@@ -39,7 +39,7 @@
     {
       "number": 5,
       "name": "City of Manila Roleplay Textdraw Server",
-      "ip": "15.235.160.99",
+      "ip": "139.99.26.47",
       "port": 7775,
       "online": 500,
       "maxplayers": 500,
